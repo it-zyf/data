@@ -1,0 +1,12 @@
+com.example.xyy.test.bean.ServerCrossServerBossKill
+com.example.xyy.test.bean.ServerRankListLog
+com.example.xyy.test.bean.ServerAccountCreate
+com.example.xyy.test.bean.ServerBossKill
+com.example.xyy.test.bean.ServerBossKillDrop
+com.example.xyy.test.bean.ServerBuyGoods
+com.example.xyy.test.bean.ServerCrossServerBossKill
+com.example.xyy.test.bean.ServerCurrencyChange
+com.example.xyy.test.bean.ServerDungeon
+com.example.xyy.test.bean.ServerGetMailContent
+com.example.xyy.test.bean.ServerRechargeStep
+com.example.xyy.test.bean.ServerRechargeSuccess
